@@ -1,6 +1,6 @@
 ## Hola, soy Ivan Vivar Tirado
 
-- Estudiante ASIR en Institut Pompeu Fabra
+- Estudiante ASIR en Institut Puig Castellar
 - Homelab con Docker, Linux, networking
 - Aprendiendo Python para automatización
 - Camino a Ciberseguridad
