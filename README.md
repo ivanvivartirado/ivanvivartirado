@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola, soy Ivan Vivar Tirado
 
-<!--
-**ivanvivartirado/ivanvivartirado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudiante ASIR en Institut Pompeu Fabra
+- Homelab con Docker, Linux, networking
+- Aprendiendo Python para automatización
+- Camino a Ciberseguridad
 
-Here are some ideas to get you started:
+### Proyectos
+- [python-learning](link) - Mi camino aprendiendo Python
+- [homelab](link) - Configuración de servidores y monitorización
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacto
+- LinkedIn: [[link](https://www.linkedin.com/in/ivanvivartirado/)]
+- Portfolio: [[link](https://ivanvivartirado.github.io/)]
