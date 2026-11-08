@@ -4,7 +4,7 @@
 
 **Técnico de sistemas y soporte IT** · Barcelona
 
-Estudio 2º de ASIX en el Institut Puig Castellar y hago prácticas de sistemas con Microsoft 365, Windows 11 y PowerShell.<br>
+Estudio 2º de ASIR en el Institut Puig Castellar y hago prácticas de sistemas con Microsoft 365, Windows 11 y PowerShell.<br>
 En casa monto y audito lo que luego uso en el trabajo.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ivanvivartirado.github.io-5cdd8b?style=flat-square&labelColor=171a18)](https://ivanvivartirado.github.io)
@@ -18,7 +18,7 @@ En casa monto y audito lo que luego uso en el trabajo.
 ### Ahora mismo
 
 - **Prácticas de sistemas en Diplonautic:** preparo con PowerShell los equipos Surface (software, actualizaciones y BitLocker), gestiono Keeper y llevo usuarios y licencias de Microsoft 365.
-- **Omni SOC:** el proyecto de ASIX, una red de pyme con monitorización y detección de incidentes.
+- **Omni SOC:** el proyecto de ASIR, una red de pyme con monitorización y detección de incidentes.
 - **Nexus Node:** mi homelab, auditado por mí mismo y con revisión automática en cada cambio.
 
 ### Proyectos
